@@ -28,6 +28,6 @@
 When you use this template, try follow the checklist to update your info properly
 
 - [ ] Change the author name in `LICENSE`
-- [ ] Clean up the READMEs and remove routes
+- [ ] Clean up the README
 
 Happy Codng :)
