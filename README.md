@@ -1,4 +1,4 @@
-## deno-module-boilerplate
+# deno-module-boilerplate
 
 > Boilerplate to kickstart developing a deno module
 
@@ -27,7 +27,9 @@
 └─ README.md
 ```
 
-## Getting Started
+# Getting Started
+
+<hr/>
 
 ## [Github Template](https://github.com/eyoatam/deno-module-boilerplate/generate)
 
