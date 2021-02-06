@@ -19,6 +19,7 @@
 |  └─ deps.ts
 ├─ example
 |  └─ index.ts
+├─ .editorconfig
 ├─ .gitignore
 ├─ CONTRIBUTING.md
 ├─ CODE_OF_CONDUCT.md
