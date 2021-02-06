@@ -6,7 +6,7 @@
 │     └─ ci.yml
 |   └─ ISSUE_TEMPLATE
 |    └─ bug_report.md
-|     └─ feature_request.md
+|    └─ feature_request.md
 ├─ src
 |  └─ index.ts
 ├─ types
