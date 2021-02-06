@@ -23,6 +23,22 @@
 └─ README.md
 ```
 
+## Try It!
+
+## [Github Template](https://github.com/eyoatam/deno-module-boilerplate/generate)
+
+## Clone from git
+
+if you prefer to do it manually
+
+```
+# clone the repo
+git clone git@github.com:Eyoatam/deno-module-boilerplate.git
+
+# navigate to project directory
+cd deno-module-boilerplate
+```
+
 ## Checklist
 
 When you use this template, try follow the checklist to update your info properly
